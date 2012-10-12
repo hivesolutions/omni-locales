@@ -144,6 +144,7 @@
     "payment_state:paid" : "Paid",
     "payment_state:pending_refund" : "Pending Refund",
     "payment_state:refunded" : "Refunded",
+    "payment_state:canceled" : "Canceled",
     "person_gender:male" : "Male",
     "person_gender:female" : "Female",
     "consignment_state:open" : "Open",
