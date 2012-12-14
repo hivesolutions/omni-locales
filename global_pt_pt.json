@@ -144,6 +144,7 @@
     "payment_state:paid" : "Pago",
     "payment_state:pending_refund" : "Aguardando Reembolso",
     "payment_state:refunded" : "Reembolsado",
+    "payment_state:refunding" : "Reembolsando",
     "payment_state:canceled" : "Cancelado",
     "person_gender:male" : "Masculino",
     "person_gender:female" : "Feminino",
@@ -179,5 +180,8 @@
     "schedule:backup_schedule" : "Agendamento de Backup",
     "schedule:export_schedule" : "Agendamento de Exportação",
     "schedule:snapshot_schedule" : "Agendamento de Snapshot",
-    "backup_method:dropbox" : "Dropbox"
+    "backup_method:dropbox" : "Dropbox",
+    "credit_note_credit_note_status:valid" : "Válida",
+    "credit_note_credit_note_status:used" : "Usada",
+    "credit_note_credit_note_status:expired" : "Expirada"
 }
