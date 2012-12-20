@@ -114,6 +114,7 @@
     "sale is not returnable" : "Venda não reembolsável",
     "target already as a series" : "Destino já tem uma série",
     "fiscal year does not correspond to date range" : "Ano fiscal não corresponde a gama de datas",
+    "credit exceeded" : "Crédito excedido",
     "boolean:no" : "Não",
     "boolean:yes" : "Sim",
     "gender:male" : "Masculino",
