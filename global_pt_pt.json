@@ -115,6 +115,7 @@
     "target already as a series" : "Destino já tem uma série",
     "fiscal year does not correspond to date range" : "Ano fiscal não corresponde a gama de datas",
     "credit exceeded" : "Crédito excedido",
+    "number of identifier digits exceeds maximum" : "Número de dígitos do identificador excede o máximo",
     "boolean:no" : "Não",
     "boolean:yes" : "Sim",
     "gender:male" : "Masculino",
