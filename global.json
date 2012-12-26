@@ -113,6 +113,9 @@
     "sale is not returnable" : "Sale is not returnable",
     "target already as a series" : "Target already has a series",
     "fiscal year does not correspond to date range" : "Fiscal year does not correspond to date range",
+    "credit exceeded" : "Credit exceeded",
+    "number of identifier digits exceeds maximum" : "Number of identifier digits exceeds maximum",
+    "suppliers must be the same" : "Suppliers must be the same",
     "boolean:no" : "No",
     "boolean:yes" : "Yes",
     "gender:male" : "Male",
@@ -164,5 +167,8 @@
     "schedule:backup_schedule" : "Backup Schedule",
     "schedule:export_schedule" : "Export Schedule",
     "schedule:snapshot_schedule" : "Snapshot Schedule",
-    "backup_method:dropbox" : "Dropbox"
+    "backup_method:dropbox" : "Dropbox",
+    "credit_note_credit_note_status:valid" : "Valid",
+    "credit_note_credit_note_status:used" : "Used",
+    "credit_note_credit_note_status:expired" : "Expired"
 }
