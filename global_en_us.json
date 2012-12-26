@@ -115,6 +115,7 @@
     "fiscal year does not correspond to date range" : "Fiscal year does not correspond to date range",
     "credit exceeded" : "Credit exceeded",
     "number of identifier digits exceeds maximum" : "Number of identifier digits exceeds maximum",
+    "suppliers must be the same" : "Suppliers must be the same",
     "boolean:no" : "No",
     "boolean:yes" : "Yes",
     "gender:male" : "Male",
