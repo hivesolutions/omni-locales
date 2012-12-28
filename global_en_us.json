@@ -142,7 +142,7 @@
     "state:paid" : "Paid",
     "state:pending_refund" : "Pending Refund",
     "state:refunded" : "Refunded",
-    "cid:money_sale_slip" : "Money Sale Slip", 
+    "cid:money_sale_slip" : "Money Sale Slip",
     "cid:invoice" : "Invoice",
     "cid:credit_note" : "Credit Note",
     "cid:transportation_slip" : "Transportation Slip",

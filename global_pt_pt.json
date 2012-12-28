@@ -142,7 +142,7 @@
     "state:paid" : "Pago",
     "state:pending_refund" : "Aguardando Reembolso",
     "state:refunded" : "Reembolsado",
-    "cid:money_sale_slip" : "Venda a Dinheiro", 
+    "cid:money_sale_slip" : "Venda a Dinheiro",
     "cid:invoice" : "Fatura",
     "cid:credit_note" : "Nota de Crédito",
     "cid:transportation_slip" : "Guia de Transporte",
