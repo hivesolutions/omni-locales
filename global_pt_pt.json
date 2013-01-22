@@ -45,6 +45,7 @@
     "Unknown error importing CSV file" : "Erro desconhecido ao importar ficheiro CSV",
     "Error importing CSV file" : "Erro ao importar ficheiro CSV",
     "Error retrieving SAFT-PT report" : "Erro ao descarregar relatório SAFT-PT",
+    "Document submitted successfully" : "Documento submetido com sucesso",
     "%s day" : "%s dia",
     "%s days" : "%s dias",
     "%s to %s days" : "%s a %s dias",
