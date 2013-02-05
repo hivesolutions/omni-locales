@@ -148,7 +148,7 @@
     "cid:invoice" : "Fatura",
     "cid:credit_note" : "Nota de Crédito",
     "cid:transportation_slip" : "Guia de Transporte",
-    "cid:expedition_slip" : "Guia de Expedição",
+    "cid:expedition_slip" : "Guia de Remessa",
     "cid:return_slip" : "Guia de Devolução",
     "cid:return_to_vendor_slip" : "Guia de Devolução ao Fornecedor",
     "payment_method:cash" : "Dinheiro",
