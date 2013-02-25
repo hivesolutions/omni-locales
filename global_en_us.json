@@ -174,5 +174,12 @@
     "backup_method:dropbox" : "Dropbox",
     "credit_note_credit_note_status:valid" : "Valid",
     "credit_note_credit_note_status:used" : "Used",
-    "credit_note_credit_note_status:expired" : "Expired"
+    "credit_note_credit_note_status:expired" : "Expired",
+    "MoneySaleSlip" : "Money Sale Slip",
+    "Invoice" : "Invoice",
+    "ReturnSlip" : "Return Slip",
+    "ConsignmentSlip" : "Consignment Slip",
+    "ReturnToVendorSlip" : "Return to Vendor Slip",
+    "TransportationSlip" : "Transportation Slip",
+    "ExpeditionSlip" : "Expedition Slip"
 }
