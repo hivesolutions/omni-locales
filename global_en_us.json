@@ -120,6 +120,7 @@
     "return of sale %s" : "Return of sale %s",
     "sale must have a document" : "Sale must have a document",
     "consignments are not open" : "Consignments are not open",
+    "not enough stock" : "Not enough stock",
     "boolean:no" : "No",
     "boolean:yes" : "Yes",
     "gender:male" : "Male",
