@@ -46,6 +46,7 @@
     "Error importing CSV file" : "Error importing CSV file",
     "Error retrieving SAFT-PT report" : "Error retrieving SAFT-PT report",
     "Document submitted successfully" : "Document submitted successfully",
+    "Transfer reverted successfully" : "Transfer reverted successfully",
     "%s day" : "%s day",
     "%s days" : "%s days",
     "%s to %s days" : "%s to %s days",
