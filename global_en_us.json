@@ -173,7 +173,7 @@
     "schedule:backup_schedule" : "Backup Schedule",
     "schedule:export_schedule" : "Export Schedule",
     "schedule:snapshot_schedule" : "Snapshot Schedule",
-    "backup_method:dropbox" : "Dropbox",
+    "engine:dropbox" : "Dropbox",
     "credit_note_credit_note_status:valid" : "Valid",
     "credit_note_credit_note_status:used" : "Used",
     "credit_note_credit_note_status:expired" : "Expired",

@@ -173,12 +173,15 @@
     "schedule:backup_schedule" : "Agendamento de Backup",
     "schedule:export_schedule" : "Agendamento de Exportação",
     "schedule:snapshot_schedule" : "Agendamento de Snapshot",
-    "backup_method:dropbox" : "Dropbox",
+    "engine:dropbox" : "Dropbox",
+    "credit_note_credit_note_status:valid" : "Válido",
+    "credit_note_credit_note_status:used" : "Utilizado",
+    "credit_note_credit_note_status:expired" : "Expirado",
     "MoneySaleSlip" : "Fatura Simplificada",
     "Invoice" : "Fatura",
     "ReturnSlip" : "Guia de Devolução",
     "ConsignmentSlip" : "Guia de Consignação",
     "ReturnToVendorSlip" : "Guia de Devolução ao Fornecedor",
     "TransportationSlip" : "Guia de Transporte",
-    "ExpeditionSlip" : "Guia de Remessa"
+    "ExpeditionSlip" : "Guia de Remessa",
 }
