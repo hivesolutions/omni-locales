@@ -31,7 +31,7 @@
     "password is not safe" : "Password is not safe",
     "password mismatch" : "Password mismatch",
     "User is not authenticated" : "User is not authenticated",
-    "Access is denied in acl" : "Acess is denied, not enough permissions",
+    "Access is denied in acl" : "Access is denied, not enough permissions",
     "Authentication error - an username and a password must be provided" : "An username and a password must be provided",
     "Authentication error - username and password combination does not match" : "Username and password combination does not match",
     "Authentication error - user not found" : "User not found",
