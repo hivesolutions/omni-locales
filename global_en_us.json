@@ -120,6 +120,7 @@
     "number of identifier digits exceeds maximum" : "Number of identifier digits exceeds maximum",
     "suppliers must be the same" : "Suppliers must be the same",
     "return of sale %s" : "Return of sale %s",
+    "return of purchases %s" : "Return of purchases %s",
     "sale must have a document" : "Sale must have a document",
     "consignments are not open" : "Consignments are not open",
     "not enough stock" : "Not enough stock",

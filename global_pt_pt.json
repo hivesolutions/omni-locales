@@ -120,6 +120,7 @@
     "number of identifier digits exceeds maximum" : "Número de dígitos do identificador excede o máximo",
     "suppliers must be the same" : "Fornecedores têm de ser os mesmos",
     "return of sale %s" : "Devolução da venda %s",
+    "return of purchases %s" : "Devolução das compras %s",
     "sale must have a document" : "Venda tem que ter documento",
     "consignments are not open" : "Consignações não estão abertas",
     "not enough stock" : "Stock insuficiente",
