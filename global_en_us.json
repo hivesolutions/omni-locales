@@ -126,6 +126,8 @@
     "not enough stock" : "Not enough stock",
     "boolean:no" : "No",
     "boolean:yes" : "Yes",
+    "status:enabled" : "Enabled",
+    "status:disabled" : "Disabled",
     "gender:male" : "Male",
     "gender:female" : "Female",
     "state:unused" : "Unused",

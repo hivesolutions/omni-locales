@@ -126,6 +126,8 @@
     "not enough stock" : "Stock insuficiente",
     "boolean:no" : "Não",
     "boolean:yes" : "Sim",
+    "status:enabled" : "Ativo",
+    "status:disabled" : "Inativo",
     "gender:male" : "Masculino",
     "gender:female" : "Feminino",
     "state:unused" : "Por usar",
