@@ -190,7 +190,7 @@
     "ExpeditionSlip" : "Expedition Slip"
     "Sales" : "Sales",
     "SaleLines" : "Sale Lines",
-    "SaleConsignmentLines" : "Sale Consignment Lines",
+    "ConsignmentLines" : "Consignment Lines",
     "InventoryLines" : "Inventory Lines",
     "StockAdjustments" : "Stock Adjustments"
 }
