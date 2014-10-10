@@ -188,4 +188,9 @@
     "ReturnToVendorSlip" : "Guia de Devolução ao Fornecedor",
     "TransportationSlip" : "Guia de Transporte",
     "ExpeditionSlip" : "Guia de Remessa",
+    "Sales" : "Vendas",
+    "SaleLines" : "Linhas de Venda",
+    "SaleConsignmentLines" : "Linhas Consignação Vendas",
+    "InventoryLines" : "Linhas de Inventário",
+    "StockAdjustments" : "Ajustes de Stock"
 }
