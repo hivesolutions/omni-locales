@@ -190,6 +190,7 @@
     "ExpeditionSlip" : "Expedition Slip"
     "Sales" : "Sales",
     "SaleLines" : "Sale Lines",
+    "SaleStats" : "Sale Statistics",
     "Consignments" : "Consignments",
     "InventoryLines" : "Inventory Lines",
     "StockAdjustments" : "Stock Adjustments"

@@ -190,6 +190,7 @@
     "ExpeditionSlip" : "Guia de Remessa",
     "Sales" : "Vendas",
     "SaleLines" : "Linhas de Venda",
+    "SaleStats" : "Estatísticas de Venda",
     "Consignments" : "Consignações",
     "InventoryLines" : "Linhas de Inventário",
     "StockAdjustments" : "Ajustes de Stock"
