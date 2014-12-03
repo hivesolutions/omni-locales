@@ -193,5 +193,7 @@
     "SaleStats" : "Sale Statistics",
     "Consignments" : "Consignments",
     "InventoryLines" : "Inventory Lines",
-    "StockAdjustments" : "Stock Adjustments"
+    "StockAdjustments" : "Stock Adjustments",
+    "System Information" : "System Information",
+    "Sales (of large scale)" : "Sales (of large scale)"
 }
