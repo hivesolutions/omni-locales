@@ -139,7 +139,7 @@
     "state:closed" : "Closed",
     "state:canceled" : "Canceled",
     "state:confirmed" : "Confirmed",
-    "state:waiting_payment" : "Waiting Paym.",
+    "state:waiting_payment" : "Wait. Paym.",
     "state:reserved" : "Reserved",
     "state:sent" : "Sent",
     "state:received" : "Received",

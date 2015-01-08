@@ -139,7 +139,7 @@
     "state:closed" : "Fechado",
     "state:canceled" : "Cancelado",
     "state:confirmed" : "Confirmado",
-    "state:waiting_payment" : "Aguard. Pagam.",
+    "state:waiting_payment" : "Agrd. Pagam.",
     "state:reserved" : "Reservado",
     "state:sent" : "Enviado",
     "state:received" : "Recebido",
