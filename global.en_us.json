@@ -24,6 +24,7 @@
     "value is not a decimal percentage" : "Value is not a decimal percentage",
     "value is not an url" : "Value is not an url",
     "value is not an email" : "Value is not an email",
+    "value is not a country" : "Value is not a country",
     "value is not a valid id number" : "Value is not a valid id number",
     "value is not a valid tax number" : "Value is not a valid tax number",
     "value has incorrect format" : "Value has incorrect format",

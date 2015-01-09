@@ -24,6 +24,7 @@
     "value is not a decimal percentage" : "O valor não é uma percentagem decimal",
     "value is not an url" : "O valor não é um url válido",
     "value is not an email" : "O valor não é um email válido",
+    "value is not a country" : "O valor não é um país válido",
     "value is not a valid id number" : "O valor não é um número de identificação válido",
     "value is not a valid tax number" : "O valor não é um NIF válido",
     "value has incorrect format" : "O valor tem formato incorreto",
