@@ -168,6 +168,7 @@
     "payment_method:paypal" : "Paypal",
     "user_type:owner" : "Owner",
     "user_type:user" : "User",
+    "user_type:advanced" : "Advanced",
     "user_type:admin" : "Administrator",
     "shipping_type:ship_to_store" : "Ship to store",
     "shipping_type:ship_to_customer" : "Ship to customer",
