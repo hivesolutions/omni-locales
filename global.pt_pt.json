@@ -169,6 +169,7 @@
     "user_type:owner" : "Proprietário",
     "user_type:user" : "Utilizador",
     "user_type:advanced" : "Avançado",
+    "user_type:observer" : "Observador",
     "user_type:admin" : "Administrador",
     "shipping_type:ship_to_store" : "Expedir para loja",
     "shipping_type:ship_to_customer" : "Expedir para cliente",
