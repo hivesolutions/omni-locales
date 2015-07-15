@@ -190,7 +190,7 @@
     "ConsignmentSlip" : "Consignment Slip",
     "ReturnToVendorSlip" : "Return to Vendor Slip",
     "TransportationSlip" : "Transportation Slip",
-    "ExpeditionSlip" : "Expedition Slip"
+    "ExpeditionSlip" : "Expedition Slip",
     "Sales" : "Sales",
     "SaleLines" : "Sale Lines",
     "SaleStats" : "Sale Statistics",
