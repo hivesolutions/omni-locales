@@ -197,6 +197,7 @@
     "Consignments" : "Consignments",
     "InventoryLines" : "Inventory Lines",
     "StockAdjustments" : "Stock Adjustments",
+    "AccountingStock" : "Accounting Stock",
     "System Information" : "System Information",
     "Sales (of large scale)" : "Sales (of large scale)"
 }

@@ -197,6 +197,7 @@
     "Consignments" : "Consignações",
     "InventoryLines" : "Linhas de Inventário",
     "StockAdjustments" : "Ajustes de Stock",
+    "AccountingStock" : "Stock Contabilistico",
     "System Information" : "Informações de Sistema",
     "Sales (of large scale)" : "Vendas (grande escala)"
 }
