@@ -49,6 +49,7 @@
     "Error retrieving SAFT-PT report" : "Erro ao descarregar relatório SAFT-PT",
     "Document submitted successfully" : "Documento submetido com sucesso",
     "Transfer reverted successfully" : "Transferência invertida com sucesso",
+    "Qualifiers restored to default successfully" : "Qualificadores restaurados com sucesso",
     "%s day" : "%s dia",
     "%s days" : "%s dias",
     "%s to %s days" : "%s a %s dias",
