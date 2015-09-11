@@ -33,7 +33,7 @@
     "password mismatch" : "A password não confere",
     "User is not authenticated" : "O utilizador não está autenticado",
     "Access is denied in acl" : "Acesso negado por falta de permissões",
-    "Authentication error - an username and a password must be provided" : "Têm de preencher o username e a password",
+    "Authentication error - an username and a password must be provided" : "Tem de preencher o username e a password",
     "Authentication error - username and password combination does not match" : "A combinação username password é inválida",
     "Authentication error - user not found" : "Utilizador não encontrado",
     "relation validation failed" : "Erro a guardar elemento",
