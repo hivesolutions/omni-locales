@@ -178,7 +178,7 @@
     "stock_deduction_type:stock_on_hand": "Stock disponível",
     "stock_deduction_type:reserved_stock": "Stock reservado",
     "vat_exemption:no_exemption": "Sem Isenção",
-    "vat_exemption:normal_exemption": "Isento",
+    "vat_exemption:normal_exemption": "Com Isenção",
     "vat_exemption:unknown": "Desconhecido",
     "schedule:saft_pt_report_schedule": "Agendamento de Relatório SAFT-PT",
     "schedule:backup_schedule": "Agendamento de Backup",
