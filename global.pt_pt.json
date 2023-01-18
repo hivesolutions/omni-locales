@@ -123,6 +123,7 @@
     "suppliers must be the same": "Fornecedores têm de ser os mesmos",
     "return of sale %s": "Devolução da venda %s",
     "return of purchases %s": "Devolução das compras %s",
+    "receipt for invoice %s": "Recibo para fatura %s",
     "sale must have a document": "Venda tem que ter documento",
     "consignments are not open": "Consignações não estão abertas",
     "not enough stock": "Stock insuficiente",
