@@ -200,7 +200,7 @@
     "physical_signature:unknown": "Unknown",
     "repair_type:warranty": "Warranty",
     "repair_type:quotation": "Quotation",
-    "repair_status:open": "Open",
+    "repair_status:opened": "Opened",
     "repair_status:approved": "Approved",
     "repair_status:rejected": "Rejected",
     "repair_status:quotation": "Quotation",

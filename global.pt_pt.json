@@ -138,7 +138,7 @@
     "state:used": "Usado",
     "state:expired": "Expirado",
     "state:created": "Criado",
-    "state:open": "Aberto",
+    "state:opened": "Aberto",
     "state:closed": "Fechado",
     "state:canceled": "Cancelado",
     "state:confirmed": "Confirmado",
