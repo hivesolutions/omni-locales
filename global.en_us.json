@@ -140,6 +140,7 @@
     "state:created": "Created",
     "state:open": "Open",
     "state:closed": "Closed",
+    "state:canceling": "Canceling",
     "state:canceled": "Canceled",
     "state:confirmed": "Confirmed",
     "state:waiting_payment": "Wait. Paym.",
