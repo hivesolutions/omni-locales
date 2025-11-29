@@ -167,6 +167,7 @@
     "state:paid": "Pago",
     "state:pending_refund": "Aguardando Reembolso",
     "state:refunded": "Reembolsado",
+    "state:redeemed": "Utilizado",
     "state:unknown": "Desconhecido",
     "cid:money_sale_slip": "Fatura Simplificada",
     "cid:invoice": "Fatura",

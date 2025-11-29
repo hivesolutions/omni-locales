@@ -167,6 +167,7 @@
     "state:paid": "Paid",
     "state:pending_refund": "Pending Refund",
     "state:refunded": "Refunded",
+    "state:redeemed": "Redeemed",
     "state:unknown": "Unknown",
     "cid:money_sale_slip": "Money Sale Slip",
     "cid:invoice": "Invoice",
