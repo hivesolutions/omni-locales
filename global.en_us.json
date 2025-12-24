@@ -237,6 +237,7 @@
     "Consignments": "Consignments",
     "InventoryLines": "Inventory Lines",
     "StockAdjustments": "Stock Adjustments",
+    "SupplierMovements": "Supplier Movements",
     "AccountingStock": "Accounting Stock",
     "System Information": "System Information",
     "Sales (of large scale)": "Sales (of large scale)"
