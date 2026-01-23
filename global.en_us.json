@@ -254,5 +254,20 @@
     "SupplierMovements": "Supplier Movements",
     "AccountingStock": "Accounting Stock",
     "System Information": "System Information",
-    "Sales (of large scale)": "Sales (of large scale)"
+    "Sales (of large scale)": "Sales (of large scale)",
+    "segment:vip": "VIP",
+    "segment:regular": "Regular",
+    "segment:at_risk": "At Risk",
+    "segment:new": "New",
+    "segment:dormant": "Dormant",
+    "segment:unknown": "Unknown",
+    "purchase_pattern:frequent": "Frequent",
+    "purchase_pattern:seasonal": "Seasonal",
+    "purchase_pattern:occasional": "Occasional",
+    "purchase_pattern:one_time": "One-time",
+    "purchase_pattern:unknown": "Unknown",
+    "price_sensitivity:low": "Low",
+    "price_sensitivity:medium": "Medium",
+    "price_sensitivity:high": "High",
+    "price_sensitivity:unknown": "Unknown"
 }

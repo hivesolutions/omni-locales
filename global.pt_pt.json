@@ -254,5 +254,20 @@
     "SupplierMovements": "Movimentos de Fornecedor",
     "AccountingStock": "Stock Contabilistico",
     "System Information": "Informações de Sistema",
-    "Sales (of large scale)": "Vendas (grande escala)"
+    "Sales (of large scale)": "Vendas (grande escala)",
+    "segment:vip": "VIP",
+    "segment:regular": "Regular",
+    "segment:at_risk": "Em Risco",
+    "segment:new": "Novo",
+    "segment:dormant": "Inativo",
+    "segment:unknown": "Desconhecido",
+    "purchase_pattern:frequent": "Frequente",
+    "purchase_pattern:seasonal": "Sazonal",
+    "purchase_pattern:occasional": "Ocasional",
+    "purchase_pattern:one_time": "Única vez",
+    "purchase_pattern:unknown": "Desconhecido",
+    "price_sensitivity:low": "Baixa",
+    "price_sensitivity:medium": "Média",
+    "price_sensitivity:high": "Alta",
+    "price_sensitivity:unknown": "Desconhecido"
 }
