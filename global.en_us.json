@@ -222,6 +222,7 @@
     "schedule:backup_schedule": "Backup Schedule",
     "schedule:export_schedule": "Export Schedule",
     "schedule:snapshot_schedule": "Snapshot Schedule",
+    "schedule:supplier_bill_schedule": "Supplier Bill Schedule",
     "engine:dropbox": "Dropbox",
     "credit_note_credit_note_status:valid": "Valid",
     "credit_note_credit_note_status:used": "Used",
