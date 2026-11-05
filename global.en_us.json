@@ -38,6 +38,7 @@
     "Authentication error - user not found": "User not found",
     "relation validation failed": "Problem saving line",
     "Your email is now confirmed": "Your email is now confirmed",
+    "Session reloaded": "Session reloaded",
     "Validation error authorizing Easypay": "Validation error authorizing Easypay",
     "Validation error authorizing Paypal": "Validation error authorizing Paypal",
     "Validation error creating till close": "Validation error creating till close",

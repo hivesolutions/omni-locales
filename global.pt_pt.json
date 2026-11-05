@@ -38,6 +38,7 @@
     "Authentication error - user not found": "Utilizador não encontrado",
     "relation validation failed": "Erro a guardar elemento",
     "Your email is now confirmed": "O seu email está agora confirmado",
+    "Session reloaded": "Sessão recarregada",
     "Validation error authorizing Easypay": "Erro de validação ao autorizar Easypay",
     "Validation error authorizing Paypal": "Erro de validação ao autorizar Paypal",
     "Validation error creating till close": "Erro de validação ao criar fecho de caixa",
