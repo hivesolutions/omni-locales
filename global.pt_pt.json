@@ -225,6 +225,7 @@
     "vat_exemption_code:PT-M04": "Isento de IVA - Artigo 13.º do CIVA (Ou similar)",
     "vat_exemption_code:PT-M05": "Isento de IVA - Artigo 14.º do CIVA (Ou similar)",
     "vat_exemption_code:PT-M08": "Isento de IVA - Autoliquidação",
+    "vat_exemption_code:PT-M46": "Isento de IVA - e-TaxFree",
     "schedule:saft_pt_report_schedule": "Agendamento de Relatório SAFT-PT",
     "schedule:backup_schedule": "Agendamento de Backup",
     "schedule:export_schedule": "Agendamento de Exportação",
